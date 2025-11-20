@@ -1,5 +1,12 @@
 # License Plate Detection & Recognition System
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg)
+![TrOCR](https://img.shields.io/badge/TrOCR-HuggingFace-orange.svg)
+![mAP](https://img.shields.io/badge/mAP%400.5-98.5%25-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 A comprehensive end-to-end automatic license plate recognition (ALPR) system using YOLOv8 for detection and TrOCR for optical character recognition. This project achieves **98.5% mAP@0.5** and **74.1% mAP@0.5:0.95** on license plate detection.
 
 ## Overview
